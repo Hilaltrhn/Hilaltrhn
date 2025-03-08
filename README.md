@@ -2,7 +2,6 @@
 <h3 align="center">A junior developper</h3>
 
 - 📫 How to reach me **hilal.tarhan@epitech.eu**
-- https://media.giphy.com/media/aqJPtML5vGCmqaCwsQ/giphy.gif?cid=ecf05e478hwj6v1cd2ektadv35ad0c4y3yhdbwczep392yke&ep=v1_gifs_search&rid=giphy.gif&ct=g
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
