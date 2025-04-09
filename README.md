@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hilaltrhn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <img align="right" height="160" src="https://media.giphy.com/media/lxshbADkPtrzqdClDF/giphy.gif?cid=ecf05e47qoz4g9oje74q7fwo3uwgzw5x7nkaltk22jf3qj3y&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
